@@ -17,6 +17,12 @@ Livros referentes ao curso de Ciência da Computação e áreas correlatas
 | [Java, como programar][11] | 8 | Java | Paul Deitel, Harvey Deitel |
 | [Introdução à teoria de Autômatos, Linguagens e Computação][12] | 2 | Linguagens Formais e Autômatos | J.E. Hopcroft, J.D. Ullman, Rajeev Motwani |
 | [Linguagens Formais e Autômatos][13] | 3 | Linguagens Formais e Autômatos | Paulo Blauth Menezes |
+| [Organização e Arquitetura de Computadores][14] | 8 | Organização e Arquitetura de Computadores | William Stallings |
+| [Noções de Probabilidade e Estatística][15] | 6 | Probabilidade e Estatística | Magalhães |
+| [Redes de Computadores][16] | 4 | Redes de Computadores | Andrew S. Tenenbaum |
+| [Redes de Computadores e a Intertnet, Uma abordagem Top-Down][17] | 6 | Redes de Computadores | Kurose, Ross |
+| [Fundamentos de Sistemas Operacionais][18] | 6 | Redes de Computadores | Abraham Silberschartz, P.B. Galvin, Greg Gagne |
+
 
 
 [1]: https://drive.google.com/file/d/1KjOwdfuP6F9BofoH4JDSZ0wceUptz9iT/view?usp=sharing
@@ -32,3 +38,9 @@ Livros referentes ao curso de Ciência da Computação e áreas correlatas
 [11]: https://drive.google.com/file/d/1_M1qjLA9XVIj34J-UF6vdyR9WkDVqEzj/view?usp=sharing
 [12]: https://drive.google.com/file/d/10QjDiovl7P61LwBzZOU02UGdrqJxYA-G/view?usp=sharing
 [13]: https://drive.google.com/file/d/1Z-57AfamN1kw3rWaPauDKgu8BBgWv0Zk/view?usp=sharing
+[14]: https://drive.google.com/file/d/1nFKfvfmI68Bnntq3YC4eygdZrnRwK3Rb/view?usp=sharing
+[15]: https://drive.google.com/file/d/10joGS2BecQQ0QNCT0td6mtXOJ5DuhhIr/view?usp=sharing
+[16]: https://drive.google.com/file/d/12Q1A9TUth7l4MOTBVzk9crbAbsNGb3Gu/view?usp=sharing
+[17]: https://drive.google.com/file/d/1-dcPZIw_7C3_yM1XBHZ-dmIkb7RfBO-D/view?usp=sharing
+[18]: https://drive.google.com/file/d/1-dcPZIw_7C3_yM1XBHZ-dmIkb7RfBO-D/view?usp=sharing
+
