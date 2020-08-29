@@ -22,6 +22,7 @@ Livros referentes ao curso de Ciência da Computação e áreas correlatas
 | [Redes de Computadores][16] | 4 | Redes de Computadores | Andrew S. Tenenbaum |
 | [Redes de Computadores e a Intertnet, Uma abordagem Top-Down][17] | 6 | Redes de Computadores | Kurose, Ross |
 | [Fundamentos de Sistemas Operacionais][18] | 6 | Redes de Computadores | Abraham Silberschartz, P.B. Galvin, Greg Gagne |
+| [Programando em C/C++, "A Bíblia"][19] | 1 | C/C++ | Kris Jamsa, Lars Klander |
 
 
 
@@ -43,4 +44,4 @@ Livros referentes ao curso de Ciência da Computação e áreas correlatas
 [16]: https://drive.google.com/file/d/12Q1A9TUth7l4MOTBVzk9crbAbsNGb3Gu/view?usp=sharing
 [17]: https://drive.google.com/file/d/1-dcPZIw_7C3_yM1XBHZ-dmIkb7RfBO-D/view?usp=sharing
 [18]: https://drive.google.com/file/d/1-dcPZIw_7C3_yM1XBHZ-dmIkb7RfBO-D/view?usp=sharing
-
+[19]: https://drive.google.com/file/d/1CnWjmWWRltZWn3h2IDzEIvh4cgo6b_bl/view?usp=sharing
